@@ -1,6 +1,6 @@
 # Untangle Remake  
 
-A quick, Python-based, vibe-coded remake of the classic puzzle game **Untangle**, originally created by Simon Tatham.
+A quick, vibe-coded, Python-based remake of the classic puzzle game **Untangle**, originally created by Simon Tatham.
 
 IMPORTANT NOTE: I have since created a better remake of this game in C++. Check that out instead.
 
