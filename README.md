@@ -2,7 +2,7 @@
 
 A Python-based remake of the classic puzzle game **Untangle**, originally created by Simon Tatham.
 
-IMPORTANT NOTE: I have since created an even better remake of this game in C++. Check that out instead.
+IMPORTANT NOTE: I have since created a better remake of this game in C++. Check that out instead.
 
 ![1](https://github.com/OliverW147/Untangle/blob/main/image2.png?raw=true)  
 ![2](https://github.com/OliverW147/Untangle/blob/main/image.png?raw=true)  
