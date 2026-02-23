@@ -22,4 +22,4 @@ IMPORTANT NOTE: I have since created a better remake of this game in C++. Check 
 This project is licensed under the **MIT License**.
 
 ### Simon Tatham
-The original creator of Untangle, whose inventive puzzle design continues to inspire game developers.  
+The original creator of Untangle.
